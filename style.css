@@ -1,0 +1,15 @@
+p {
+    color:rgb(23, 224, 161);
+    width: 300px;
+    font-size: 20px;
+    font-family: ;
+    background-color: #f3caea;
+}
+.abvgde {
+    text-align: center;
+    background-color: #6796db;
+    transition: all 0.5s;
+}
+.abvgde:hover {
+    background-color: #f3e5ca;
+}
